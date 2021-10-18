@@ -2,7 +2,7 @@
 
 Computer Science Student :)
 
-[Link](url) and ![Image](src)
+[Image](https://user-images.githubusercontent.com/72560410/137767149-2e9890c0-c969-49d6-85f4-0d07bdb4e038.png)
 
 ### Jekyll Themes
 
