@@ -1,5 +1,6 @@
-## Teodora Costinescu
+### Teodora Costinescu
 
+## Description
 Computer Science Student :)
 23 years old
 
